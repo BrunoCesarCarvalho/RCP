@@ -1,0 +1,276 @@
+[00:59:00] -> Inicío da importação!
+[00:59:00] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[00:59:00] -> Total de linhas processadas: 23
+[00:59:00] -> Total de linhas com erro: 1
+[00:59:13] -> Fim da importação!
+[00:59:18] -> Inicío da importação!
+[00:59:18] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[00:59:18] -> Total de linhas processadas: 23
+[00:59:18] -> Total de linhas com erro: 1
+[01:06:52] -> Inicío da importação!
+[01:06:52] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[01:06:52] -> Total de linhas processadas: 23
+[01:06:52] -> Total de linhas com erro: 1
+[01:07:57] -> Inicío da importação!
+[01:07:57] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[01:07:57] -> Total de linhas processadas: 23
+[01:07:57] -> Total de linhas com erro: 1
+[01:08:34] -> Fim da importação!
+[01:36:17] -> Inicío da importação!
+[01:36:17] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[01:36:17] -> Total de linhas processadas: 23
+[01:36:17] -> Total de linhas com erro: 1
+[01:57:26] -> Inicío da importação!
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:02.852' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:04.352' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:04.108' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:04.414' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:18.456' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:03.170' was not recognized as a valid TimeSpan.
+[01:57:26] -> Erro na leitura da linha: 1 - Erro: String '01:04.002' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:03.982' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:04.805' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:07.011' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:02.769' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:03.716' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:03.987' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:04.287' was not recognized as a valid TimeSpan.
+[01:57:27] -> Erro na leitura da linha: 1 - Erro: String '01:08.704' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '03:31.315' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '01:02.787' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '01:04.010' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '01:03.076' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '01:04.216' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '01:20.050' was not recognized as a valid TimeSpan.
+[01:57:28] -> Erro na leitura da linha: 1 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[01:57:28] -> Total de linhas processadas: 2
+[01:57:28] -> Total de linhas com erro: 22
+[01:57:52] -> Fim da importação!
+[01:58:19] -> Inicío da importação!
+[01:58:19] -> Erro na leitura da linha: 1 - Erro: String '01:02.852' was not recognized as a valid TimeSpan.
+[01:58:19] -> Erro na leitura da linha: 1 - Erro: String '01:04.352' was not recognized as a valid TimeSpan.
+[01:58:19] -> Erro na leitura da linha: 1 - Erro: String '01:04.108' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:04.414' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:18.456' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:03.170' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:04.002' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:03.982' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:04.805' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:07.011' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:02.769' was not recognized as a valid TimeSpan.
+[01:58:20] -> Erro na leitura da linha: 1 - Erro: String '01:03.716' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:03.987' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:04.287' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:08.704' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '03:31.315' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:02.787' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:04.010' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:03.076' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:04.216' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '01:20.050' was not recognized as a valid TimeSpan.
+[01:58:21] -> Erro na leitura da linha: 1 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[01:58:22] -> Total de linhas processadas: 2
+[01:58:22] -> Total de linhas com erro: 22
+[02:01:18] -> Inicío da importação!
+[02:01:19] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:01:19] -> Total de linhas processadas: 23
+[02:01:19] -> Total de linhas com erro: 1
+[02:04:45] -> Inicío da importação!
+[02:04:45] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:04:45] -> Total de linhas processadas: 23
+[02:04:45] -> Total de linhas com erro: 1
+[02:04:57] -> Fim da importação!
+[02:08:07] -> Inicío da importação!
+[02:08:07] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:08:07] -> Total de linhas processadas: 23
+[02:08:07] -> Total de linhas com erro: 1
+[02:08:08] -> Fim da importação!
+[02:14:01] -> Inicío da importação!
+[02:14:01] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:14:01] -> Total de linhas processadas: 23
+[02:14:01] -> Total de linhas com erro: 1
+[02:21:29] -> Inicío da importação!
+[02:21:29] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:21:29] -> Total de linhas processadas: 23
+[02:21:29] -> Total de linhas com erro: 1
+[02:21:29] -> Fim da importação!
+[02:27:08] -> Inicío da importação!
+[02:27:08] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:27:08] -> Total de linhas processadas: 23
+[02:27:08] -> Total de linhas com erro: 1
+[02:27:08] -> Fim da importação!
+[02:28:25] -> Inicío da importação!
+[02:28:25] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:28:25] -> Total de linhas processadas: 23
+[02:28:25] -> Total de linhas com erro: 1
+[02:28:25] -> Fim da importação!
+[02:29:26] -> Inicío da importação!
+[02:29:26] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:29:26] -> Total de linhas processadas: 23
+[02:29:26] -> Total de linhas com erro: 1
+[02:29:26] -> Fim da importação!
+[02:30:03] -> Inicío da importação!
+[02:30:03] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:30:03] -> Total de linhas processadas: 23
+[02:30:03] -> Total de linhas com erro: 1
+[02:30:03] -> Fim da importação!
+[02:30:37] -> Inicío da importação!
+[02:30:38] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:30:38] -> Total de linhas processadas: 23
+[02:30:38] -> Total de linhas com erro: 1
+[02:30:38] -> Fim da importação!
+[02:32:00] -> Inicío da importação!
+[02:32:00] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:32:00] -> Total de linhas processadas: 23
+[02:32:00] -> Total de linhas com erro: 1
+[02:32:00] -> Fim da importação!
+[02:32:24] -> Inicío da importação!
+[02:32:24] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:32:24] -> Total de linhas processadas: 23
+[02:32:24] -> Total de linhas com erro: 1
+[02:32:25] -> Fim da importação!
+[02:32:48] -> Inicío da importação!
+[02:32:49] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:32:49] -> Total de linhas processadas: 23
+[02:32:49] -> Total de linhas com erro: 1
+[02:32:49] -> Fim da importação!
+[02:33:12] -> Inicío da importação!
+[02:33:13] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:33:13] -> Total de linhas processadas: 23
+[02:33:13] -> Total de linhas com erro: 1
+[02:33:13] -> Fim da importação!
+[02:33:53] -> Inicío da importação!
+[02:33:53] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:33:53] -> Total de linhas processadas: 23
+[02:33:53] -> Total de linhas com erro: 1
+[02:33:53] -> Fim da importação!
+[02:34:33] -> Inicío da importação!
+[02:34:34] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:34:34] -> Total de linhas processadas: 23
+[02:34:34] -> Total de linhas com erro: 1
+[02:34:34] -> Fim da importação!
+[02:37:01] -> Inicío da importação!
+[02:37:01] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:37:01] -> Total de linhas processadas: 23
+[02:37:01] -> Total de linhas com erro: 1
+[02:37:02] -> Fim da importação!
+[02:37:09] -> Inicío da importação!
+[02:37:09] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:37:09] -> Total de linhas processadas: 23
+[02:37:09] -> Total de linhas com erro: 1
+[02:37:09] -> Fim da importação!
+[02:44:30] -> Inicío da importação!
+[02:44:30] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:44:30] -> Total de linhas processadas: 23
+[02:44:30] -> Total de linhas com erro: 1
+[02:44:30] -> Fim da importação!
+[02:45:20] -> Inicío da importação!
+[02:45:20] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:45:20] -> Total de linhas processadas: 23
+[02:45:20] -> Total de linhas com erro: 1
+[02:45:20] -> Fim da importação!
+[02:46:31] -> Inicío da importação!
+[02:46:31] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:46:31] -> Total de linhas processadas: 23
+[02:46:31] -> Total de linhas com erro: 1
+[02:46:31] -> Fim da importação!
+[02:47:03] -> Inicío da importação!
+[02:47:03] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:47:03] -> Total de linhas processadas: 23
+[02:47:03] -> Total de linhas com erro: 1
+[02:47:03] -> Fim da importação!
+[02:52:45] -> Inicío da importação!
+[02:52:45] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:52:45] -> Total de linhas processadas: 23
+[02:52:45] -> Total de linhas com erro: 1
+[02:52:45] -> Fim da importação!
+[02:53:57] -> Inicío da importação!
+[02:53:57] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[02:53:57] -> Total de linhas processadas: 23
+[02:53:57] -> Total de linhas com erro: 1
+[02:53:57] -> Fim da importação!
+[03:10:13] -> Inicío da importação!
+[03:10:13] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:10:13] -> Total de linhas processadas: 23
+[03:10:13] -> Total de linhas com erro: 1
+[03:10:13] -> Fim da importação!
+[03:12:54] -> Inicío da importação!
+[03:12:54] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:12:54] -> Total de linhas processadas: 23
+[03:12:54] -> Total de linhas com erro: 1
+[03:12:54] -> Fim da importação!
+[03:25:40] -> Inicío da importação!
+[03:25:40] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:25:40] -> Total de linhas processadas: 23
+[03:25:40] -> Total de linhas com erro: 1
+[03:25:40] -> Fim da importação!
+[03:35:10] -> Inicío da importação!
+[03:35:10] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:35:10] -> Total de linhas processadas: 23
+[03:35:10] -> Total de linhas com erro: 1
+[03:35:10] -> Fim da importação!
+[03:35:16] -> Inicío da importação!
+[03:35:16] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:35:16] -> Total de linhas processadas: 23
+[03:35:16] -> Total de linhas com erro: 1
+[03:35:16] -> Fim da importação!
+[03:35:38] -> Inicío da importação!
+[03:35:38] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:35:38] -> Total de linhas processadas: 23
+[03:35:38] -> Total de linhas com erro: 1
+[03:35:38] -> Fim da importação!
+[03:40:22] -> Inicío da importação!
+[03:40:22] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:40:22] -> Total de linhas processadas: 23
+[03:40:22] -> Total de linhas com erro: 1
+[03:40:23] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:40:23] -> Fim da importação!
+[03:41:17] -> Inicío da importação!
+[03:41:17] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:41:17] -> Total de linhas processadas: 23
+[03:41:17] -> Total de linhas com erro: 1
+[03:41:17] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:41:17] -> Fim da importação!
+[03:43:50] -> Inicío da importação!
+[03:43:50] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:43:50] -> Total de linhas processadas: 23
+[03:43:50] -> Total de linhas com erro: 1
+[03:43:50] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:43:50] -> Fim da importação!
+[03:45:43] -> Inicío da importação!
+[03:45:43] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:45:43] -> Total de linhas processadas: 23
+[03:45:43] -> Total de linhas com erro: 1
+[03:45:43] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:45:43] -> Fim da importação!
+[03:46:10] -> Inicío da importação!
+[03:46:10] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:46:10] -> Total de linhas processadas: 23
+[03:46:10] -> Total de linhas com erro: 1
+[03:46:25] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:46:25] -> Fim da importação!
+[03:48:22] -> Inicío da importação!
+[03:48:22] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:48:22] -> Total de linhas processadas: 23
+[03:48:22] -> Total de linhas com erro: 1
+[03:48:22] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:48:22] -> Fim da importação!
+[03:48:36] -> Inicío da importação!
+[03:48:36] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:48:36] -> Total de linhas processadas: 23
+[03:48:36] -> Total de linhas com erro: 1
+[03:49:42] -> Inicío da importação!
+[03:49:42] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:49:42] -> Total de linhas processadas: 23
+[03:49:42] -> Total de linhas com erro: 1
+[03:49:42] -> Erro geral no processamento do arquivo. Consulte o suporte: Metodo de leitura do arquivo - erro: Sequence contains no matching element
+[03:49:42] -> Fim da importação!
+[03:50:07] -> Inicío da importação!
+[03:50:07] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:50:07] -> Total de linhas processadas: 23
+[03:50:07] -> Total de linhas com erro: 1
+[03:50:57] -> Inicío da importação!
+[03:50:57] -> Erro na leitura da linha: 22 - Erro: String '000000000011' was not recognized as a valid DateTime.
+[03:50:57] -> Total de linhas processadas: 23
+[03:50:57] -> Total de linhas com erro: 1
+[03:50:57] -> Fim da importação!
